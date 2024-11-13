@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Miss",
-    introTitle: 'Tên ny bạn',
+    introTitle: 'Quang ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: '...',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://i.pinimg.com/originals/82/06/af/8206af9d1a00baeb8644c72f2e3bd089.png'
+    messLink: 'https://th.bing.com/th/id/OIP.Ju0Rkqu8LZTwAzB4pr5RhQHaEJ?w=334&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7'
 }
